@@ -54,7 +54,7 @@ window.addEventListener("DOMContentLoaded", function(e){
     }}
 
     else{
-        text.style.borderColor = "hsl(223, 100%, 88%);";
+        text.style.borderColor = "hsl(223, 100%, 88%)";
         if(notification1){
         parent1.removeChild(notification1);
         }
